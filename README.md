@@ -1,2 +1,2 @@
 # Data-Science
-wrangling, cleaning, visualization etc
+wrangling, cleaning, correction, deep learning, machine learning, visualization etc
